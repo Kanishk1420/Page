@@ -57,7 +57,6 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kanishk1420&show_icons=true&theme=radical" alt="Kanishk's GitHub stats" />
-  <hr>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishk1420&theme=radical" alt="Kanishk's GitHub streak" />
 </p>
 
