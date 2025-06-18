@@ -144,12 +144,12 @@ Stock forecasting system combining technical analysis with financial news proces
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Kanishk1420W/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:Kanishkgupta2003@outlook.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Kanishk1420W/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="45" height="45"/>
   </a>
 </p>
 
