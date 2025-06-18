@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Kanishk Gupta
+# Hi there 👋, I'm Kanishk
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -6,7 +6,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+GitHub!;I'm+Kanishk+Gupta;Full+Stack+Developer;Mobile+App+Developer&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+GitHub!;I'm+Kanishk;Full+Stack+Developer;Mobile+App+Developer&center=true&size=30">
   </a>
 </h3>
 
