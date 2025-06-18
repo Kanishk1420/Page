@@ -1,7 +1,11 @@
 # Hi there 👋, I'm Kanishk Gupta
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <!-- Option 1: High-quality developer animation -->
+  <img src="https://i.imgur.com/q1Y6KRJ.gif" width="600" height="300" alt="Developer Animation"/>
+  
+  <!-- Option 2: Clean SVG animation alternative -->
+  <!-- <img src="https://svgshare.com/i/10B0.svg" width="600"/> -->
 </div>
 
 <h3 align="center">
@@ -25,10 +29,10 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 - Awarded Certificate of Excellence as Winner of Startup Innovation (Team blocbyte) by Unstop
 - Participated in the Level 1 E-Commerce & Tech Quiz at Flipkart GRi
 
-## 🛠️ My Tech Stack
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,flutter,dart,java,git,azure" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,flutter,dart,java,git,azure&perline=6" />
   </a>
 </p>
 
@@ -54,10 +58,10 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kanishk1420&show_icons=true&theme=radical" alt="Kanishk's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishk1420&theme=radical" alt="Kanishk's GitHub streak" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kanishk1420&show_icons=true&theme=radical&border_radius=10&hide_border=true" alt="Kanishk's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishk1420&theme=radical&border_radius=10&hide_border=true" alt="Kanishk's GitHub streak" />
+</div>
 
 <div align="center">
   <h3>Most Used Languages</h3>
@@ -73,11 +77,21 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 
 ## 🚀 Featured Projects
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Featured Projects
+</h2>
+
 ### 🧠 EEG Signal Processing
 Advanced EEG signal analysis and visualization system
 - Processes and analyzes electroencephalogram signals for neurological insights
 - Interactive web-based visualization of brain activity patterns
 - Technologies: HTML, CSS, JavaScript, Signal Processing Libraries
+
+<div align="center">
+  <a href="https://github.com/Kanishk1420/EEG-Signal-Processing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kanishk1420&repo=EEG-Signal-Processing&theme=radical&hide_border=true" />
+  </a>
+</div>
 
 <p align="center">
   <a href="https://github.com/Kanishk1420/EEG-Signal-Processing">
@@ -142,3 +156,7 @@ Stock forecasting system combining technical analysis with financial news proces
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Kanishk1420/count.svg" alt="Visitor Count" />
 </p>
+
+<div align="center">
+  <hr style="width: 70%; margin: 30px auto; height: 1px; background: linear-gradient(to right, transparent, #8A2BE2, transparent);"/>
+</div>
