@@ -54,24 +54,6 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <h3>Kanishk's GitHub Stats</h3>
-  <table>
-    <tr>
-      <td>
-        ⭐ Total Stars Earned: 31<br/>
-        🕒 Total Commits (2025): 283<br/>
-        📥 Total PRs: 10<br/>
-        🔎 Total Issues: 3<br/>
-        🧩 Contributed to (last year): 7
-      </td>
-      <td>
-        <p align="center"><b>B-</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kanishk1420&show_icons=true&theme=radical" alt="Kanishk's GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kanishk1420&theme=radical" alt="Kanishk's GitHub streak" />
