@@ -15,9 +15,9 @@
 Passionate developer born on September 24, 2003, with interests in Web development, Mobile applications, and Cloud technologies. Always exploring new technologies and looking to collaborate on innovative Projects. Fluent in English and Hindi.
 
 ## 📚 Currently Learning
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![DSA in Java](https://img.shields.io/badge/-DSA_in_Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
 
 ## 🎓 Academic Achievements
 - Selected among 800+ applicants for MIT Hackathon 2025, developed AI Copilot for Renewable Energy Data Rooms
@@ -46,6 +46,7 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ### Database & Tools
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
