@@ -137,7 +137,7 @@ Stock forecasting system combining technical analysis with financial news proces
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/SushmaLal125823" target="_blank">
-    <img src="https://i.imgur.com/T9cXqNr.png" alt="X" width="45" height="45"/>
+    <img src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" alt="X" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/iamkanishk24/" target="_blank">
