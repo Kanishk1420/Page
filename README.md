@@ -139,7 +139,13 @@ Stock forecasting system combining technical analysis with financial news proces
   <a href="mailto:Kanishkgupta2003@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-## 🌐 Visitors
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/Kanishk1420/count.svg" alt="Visitor Count" />
+## 📊 Profile Analytics
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kanishk1420&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+  <a href="https://github.com/Kanishk1420?tab=followers">
+    <img src="https://img.shields.io/github/followers/Kanishk1420?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers"/>
+  </a>
+  <a href="https://github.com/Kanishk1420?tab=stars">
+    <img src="https://img.shields.io/github/stars/Kanishk1420?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&color=orange" alt="GitHub Stars"/>
+  </a>
 </p>
