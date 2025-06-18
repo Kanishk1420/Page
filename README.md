@@ -28,7 +28,7 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 ## 🛠️ My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,mongodb,flutter,dart,java,git,azure" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,mysql,flutter,dart,firebase,git,azure" />
   </a>
 </p>
 
