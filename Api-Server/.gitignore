@@ -1,9 +1,0 @@
-# Environment variables
-/node_modules
-.env
-.env.local
-.env.development
-.env.test
-.env.production
-.env.backup
-*.env
