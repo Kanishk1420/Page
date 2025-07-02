@@ -28,7 +28,7 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 ## 🛠️ My Tech Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,mysql,flutter,dart,firebase,git,azure" />
+    <img src="https://skillicons.dev/icons?i=c,java,html,css,js,react,nodejs,mongodb,mysql,kafka,flutter,dart,firebase,git,azure" />
   </a>
 </p>
 
@@ -49,6 +49,7 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure_Cloud-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
