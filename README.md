@@ -40,7 +40,7 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-[![CSS-3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)]
+![CSS-3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 ![Express](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
