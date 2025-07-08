@@ -129,12 +129,11 @@ Stock forecasting system combining technical analysis with financial news proces
   </a>
 </p>
 
-## 🏆 Achievements & Extra-Curricular Activities
+## 🏆 Extra-Curricular Activities
 - 👨‍💻 Active Open Source Contributor
 - 📚 Continuous Learning Enthusiast
 - 🤝 Collaboration and Team Projects
-- 🧠 Collaborated on ataxia research project with faculty specialists
-- 🎯 Actively participated in Elabs Society Events
+- 🎯 Actively participated in College Society Events
 - 👥 Strong team leadership abilities with adaptability
 
 ## 📫 Connect with Me
