@@ -152,7 +152,7 @@ Stock forecasting system combining technical analysis with financial news proces
   </a>
   &nbsp;&nbsp;
   <a href="mailto:Kanishkgupta2003@outlook.com" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" alt="Email" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg/2203px-Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg.png" alt="Email" width="45" height="45"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Kanishk1420W/" target="_blank">
