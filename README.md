@@ -15,7 +15,7 @@
 Passionate developer born on September 24, 2003, with interests in Web development, Mobile applications, and Cloud technologies. Always exploring new technologies and looking to collaborate on innovative Projects. Fluent in English and Hindi.
 
 ## 📚 Currently Learning
-![DSA in Java](https://img.shields.io/badge/-DSA_in_Java-ED8B00?style=flat&logo=java&logoColor=white&cache_bust=1)
+![DSA in Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 
@@ -35,12 +35,12 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 ### Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white&cache_bust=2)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
 
 ### Web Development
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white&cache_bust=3)
+[![CSS-3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)]
 ![React](https://img.shields.io/badge/-ReactJS-61DAFB?style=flat&logo=react&logoColor=black)
 ![Express](https://img.shields.io/badge/-ExpressJS-000000?style=flat&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
@@ -52,7 +52,7 @@ Passionate developer born on September 24, 2003, with interests in Web developme
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure_Cloud-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
+[![Microsoft Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)]
 
 ## 📊 GitHub Stats
 
